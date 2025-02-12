@@ -2,7 +2,7 @@
 Home Page                 |  Quiz Page
 :-------------------------:|:-------------------------:
 ![](./homePage.png)  |  ![](./quizPage.png)
-
+ 
 # EN - Quiz App - Bil5
 
 This project is a quiz application where users can test themselves by answering general knowledge questions.
